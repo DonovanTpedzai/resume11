@@ -34,7 +34,7 @@ button{
         
  }
  .content .h1{
-        font: size 120px;
+        font-size: 1000px;
         margin: 10px 0 30px;
         line-height: 80px;
 
@@ -141,6 +141,10 @@ button{
 
 .bubbles img:nth-child(7){
     animation-delay: 7s;
+}
+.content{
+    font-size: xx-large;
+
 }
 
 .container{
